@@ -1,4 +1,10 @@
 <template>
+    <!--
+    Author: Kenzo (8ruki)
+    Version: v0.1.0
+    Url: Closed Source
+    License(s): MIT
+  -->
   <div class="bg-gray-900">
     <main>
       <!-- Hero section -->
@@ -19,7 +25,7 @@
         </div>
         <div class="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-40 lg:flex lg:px-8 lg:pt-40">
           <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
-            <img class="h-11" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&amp;shade=500" alt="Your Company" />
+            <img class="h-11" src="https://cdn.discordapp.com/attachments/1221218737106059326/1221219622271979581/Mark_1_1.png?ex=6611c867&is=65ff5367&hm=376d74424a66fd136bc3567237561e1d622e23c35ed1ae5a3f0fa187fad6d85f&" alt="Your Company" />
             <div class="mt-24 sm:mt-32 lg:mt-16">
               <a href="#" class="inline-flex space-x-6">
                 <span class="rounded-full bg-indigo-500/10 px-3 py-1 text-sm font-semibold leading-6 text-indigo-400 ring-1 ring-inset ring-indigo-500/20">Latest updates</span>
@@ -30,15 +36,15 @@
               </a>
             </div>
             <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Discover a new way to moderate your discord server</h1>
-            <p class="mt-6 text-lg leading-8 text-gray-300">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p>
+            <p class="mt-6 text-lg leading-8 text-gray-300">Step into a new era of moderation with Faster! Explore an innovative approach to moderating with our diverse range of tools tailored for large and medium-sized communities.</p>
             <div class="mt-10 flex items-center gap-x-6">
               <a href="#" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Get started</a>
-              <a href="#" class="text-sm font-semibold leading-6 text-white">Live demo <span aria-hidden="true">→</span></a>
+              <a href="#" class="text-sm font-semibold leading-6 text-white">Join our discord <span aria-hidden="true">→</span></a>
             </div>
           </div>
           <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
             <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
-              <img src="https://tailwindui.com/img/component-images/dark-project-app-screenshot.png" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10" />
+              <img src="https://cdn.discordapp.com/attachments/1221218737106059326/1221218850104807555/Frame_1.png?ex=6611c7af&is=65ff52af&hm=ce3d3d7bc61ec8a4adf899530332177d58d0282ffef597af009f8f00a7ab4778&" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10" />
             </div>
           </div>
         </div>
@@ -46,7 +52,7 @@
 
       <!-- Logo cloud -->
       <div class="mx-auto mt-8 max-w-7xl px-6 sm:mt-16 lg:px-8">
-        <h2 class="text-center text-lg font-semibold leading-8 text-white">The world's best community are using our discord</h2>
+        <h2 class="text-center text-lg font-semibold leading-8 text-white">The world's best community are using our bot</h2>
         <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
           <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/transistor-logo-white.svg" alt="Transistor" width="158" height="48" />
           <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/reform-logo-white.svg" alt="Reform" width="158" height="48" />
@@ -60,8 +66,8 @@
       <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
         <div class="mx-auto max-w-2xl text-center">
           <h2 class="text-base font-semibold leading-7 text-indigo-400">Deploy faster</h2>
-          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Everything you need to deploy your app</p>
-          <p class="mt-6 text-lg leading-8 text-gray-300">Lorem ipsum dolor sit amet consect adipisicing elit. Possimus magnam voluptatum cupiditate veritatis in accusamus quisquam.</p>
+          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Learn a different way to manage your server.</p>
+          <p class="mt-6 text-lg leading-8 text-gray-300">With Faster, experience a unique approach to moderation by utilizing our array of tools to foster a healthy and efficient ecosystem within your server..</p>
         </div>
         <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
           <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
@@ -88,13 +94,13 @@
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
           <div class="mx-auto max-w-2xl sm:text-center">
             <h2 class="text-base font-semibold leading-7 text-indigo-400">Everything you need</h2>
-            <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">No server? No problem.</p>
+            <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Multiple bots? Faster is here.</p>
             <p class="mt-6 text-lg leading-8 text-gray-300">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis.</p>
           </div>
         </div>
         <div class="relative overflow-hidden pt-16">
           <div class="mx-auto max-w-7xl px-6 lg:px-8">
-            <img src="https://tailwindui.com/img/component-images/dark-project-app-screenshot.png" alt="App screenshot" class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10" width="2432" height="1442" />
+            <img src="https://cdn.discordapp.com/attachments/1221218737106059326/1221218850104807555/Frame_1.png?ex=6611c7af&is=65ff52af&hm=ce3d3d7bc61ec8a4adf899530332177d58d0282ffef597af009f8f00a7ab4778&" alt="App screenshot" class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10" width="2432" height="1442" />
             <div class="relative" aria-hidden="true">
               <div class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-gray-900 pt-[7%]" />
             </div>
@@ -186,7 +192,6 @@ import {
   ServerIcon,
 } from '@heroicons/vue/20/solid'
 import { BoltIcon, CalendarDaysIcon, UsersIcon } from '@heroicons/vue/24/outline'
-
 const primaryFeatures = [
   {
     name: 'Server monitoring',
