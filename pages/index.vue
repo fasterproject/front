@@ -29,7 +29,7 @@
                 </span>
               </a>
             </div>
-            <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Deploy to the cloud with confidence</h1>
+            <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Discover a new way to moderate your discord server</h1>
             <p class="mt-6 text-lg leading-8 text-gray-300">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p>
             <div class="mt-10 flex items-center gap-x-6">
               <a href="#" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Get started</a>
@@ -46,7 +46,7 @@
 
       <!-- Logo cloud -->
       <div class="mx-auto mt-8 max-w-7xl px-6 sm:mt-16 lg:px-8">
-        <h2 class="text-center text-lg font-semibold leading-8 text-white">The world’s most innovative companies use our app</h2>
+        <h2 class="text-center text-lg font-semibold leading-8 text-white">The world's best community are using our discord</h2>
         <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
           <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/transistor-logo-white.svg" alt="Transistor" width="158" height="48" />
           <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/reform-logo-white.svg" alt="Reform" width="158" height="48" />

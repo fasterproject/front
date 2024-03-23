@@ -19,6 +19,7 @@
     "nuxt": "^3.11.1",
     "postcss": "^8.4.38",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue-router": "^4.3.0",
+    "vue-typed-js": "^0.1.2"
   }
 }
