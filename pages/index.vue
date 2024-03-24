@@ -96,7 +96,7 @@
           <div class="mx-auto max-w-2xl sm:text-center">
             <h2 class="text-base font-semibold leading-7 text-indigo-400">Everything you need</h2>
             <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Multiple bots? Faster is here.</p>
-            <p class="mt-6 text-lg leading-8 text-gray-300">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis.</p>
+            <p class="mt-6 text-lg leading-8 text-gray-300">Consolidate your moderation efforts with Faster, the all-in-one solution. Say goodbye to juggling multiple bots and hello to streamlined efficiency and effectiveness in managing your community.</p>
           </div>
         </div>
         <div class="relative overflow-hidden pt-16">
