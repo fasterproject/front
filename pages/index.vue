@@ -38,8 +38,8 @@
             <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Discover a new way to moderate your discord server</h1>
             <p class="mt-6 text-lg leading-8 text-gray-300">Step into a new era of moderation with Faster! Explore an innovative approach to moderating with our diverse range of tools tailored for large and medium-sized communities.</p>
             <div class="mt-10 flex items-center gap-x-6">
-              <a href="#" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Get started</a>
-              <a href="#" class="text-sm font-semibold leading-6 text-white">Join our discord <span aria-hidden="true">→</span></a>
+              <a href="https://discord.com/oauth2/authorize?client_id=1091418983003070474" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Get started</a>
+              <a href="https://discord.gg/brut" class="text-sm font-semibold leading-6 text-white">Join our discord <span aria-hidden="true">→</span></a>
             </div>
           </div>
           <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
@@ -50,7 +50,7 @@
         </div>
       </div>
 
-      <!-- Logo cloud -->
+      <!--
       <div class="mx-auto mt-8 max-w-7xl px-6 sm:mt-16 lg:px-8">
         <h2 class="text-center text-lg font-semibold leading-8 text-white">The world's best community are using our bot</h2>
         <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
@@ -61,6 +61,7 @@
           <img class="col-span-2 col-start-2 max-h-12 w-full object-contain sm:col-start-auto lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/statamic-logo-white.svg" alt="Statamic" width="158" height="48" />
         </div>
       </div>
+      -->
 
       <!-- Feature section -->
       <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
@@ -124,8 +125,8 @@
       <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
         <div class="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
           <h2 class="text-base font-semibold leading-8 text-indigo-400">Our track record</h2>
-          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Trusted by thousands of developers&nbsp;worldwide</p>
-          <p class="mt-6 text-lg leading-8 text-gray-300">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.</p>
+          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Trusted by thousands of communities&nbsp;worldwide</p>
+          <p class="mt-6 text-lg leading-8 text-gray-300">Join the ranks of satisfied server owners globally who rely on our trusted bot for unparalleled security and peace of mind, ensuring the safety and integrity of their communities.</p>
         </div>
         <dl class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-10 text-white sm:mt-20 sm:grid-cols-2 sm:gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-4">
           <div v-for="stat in stats" :key="stat.id" class="flex flex-col gap-y-3 border-l border-white/10 pl-6">
@@ -152,11 +153,11 @@
           <div class="aspect-[1108/632] w-[69.25rem] flex-none bg-gradient-to-r from-[#80caff] to-[#4f46e5] opacity-20" style="clip-path: polygon(73.6% 51.7%, 91.7% 11.8%, 100% 46.4%, 97.4% 82.2%, 92.5% 84.9%, 75.7% 64%, 55.3% 47.5%, 46.5% 49.4%, 45% 62.9%, 50.3% 87.2%, 21.3% 64.1%, 0.1% 100%, 5.4% 51.1%, 21.4% 63.9%, 58.9% 0.2%, 73.6% 51.7%)" />
         </div>
         <div class="mx-auto max-w-2xl text-center">
-          <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">Boost your productivity.<br />Start using our app today.</h2>
-          <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-300">Incididunt sint fugiat pariatur cupidatat consectetur sit cillum anim id veniam aliqua proident excepteur commodo do ea.</p>
+          <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">Boost your community.<br />Start using our bot today.</h2>
+          <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-300">Elevate your community's security and efficiency by integrating our trusted bot today, empowering you to foster a thriving and engaged environment for your members.</p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
-            <a href="#" class="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">Get started</a>
-            <a href="#" class="text-sm font-semibold leading-6 text-white">Learn more <span aria-hidden="true">→</span></a>
+            <a href="https://discord.com/oauth2/authorize?client_id=1091418983003070474" class="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">Get started</a>
+            <a href="https://discord.gg/brut" class="text-sm font-semibold leading-6 text-white">Join our discord <span aria-hidden="true">→</span></a>
           </div>
         </div>
       </div>
@@ -173,7 +174,7 @@
               <component :is="item.icon" class="h-6 w-6" aria-hidden="true" />
             </a>
           </div>
-          <p class="mt-8 text-xs leading-5 text-gray-400 md:order-1 md:mt-0">&copy; 2020 Your Company, Inc. All rights reserved.</p>
+          <p class="mt-8 text-xs leading-5 text-gray-400 md:order-1 md:mt-0">&copy; 2024 Faster, Inc. All rights reserved.</p>
         </div>
       </div>
     </footer>
@@ -191,67 +192,53 @@ import {
   LockClosedIcon,
   ServerIcon,
 } from '@heroicons/vue/20/solid'
-import { BoltIcon, CalendarDaysIcon, UsersIcon } from '@heroicons/vue/24/outline'
+import { BoltIcon, AdjustmentsHorizontalIcon, UsersIcon } from '@heroicons/vue/24/outline'
 const primaryFeatures = [
   {
-    name: 'Server monitoring',
+    name: 'User-Friendly Tools',
     description:
-      'Non quo aperiam repellendus quas est est. Eos aut dolore aut ut sit nesciunt. Ex tempora quia. Sit nobis consequatur dolores incidunt.',
-    href: '#',
+      'We offer intuitive tools for community moderation accompanied by comprehensive documentation.',
     icon: BoltIcon,
   },
   {
-    name: 'Collaborate',
+    name: 'Encountering an Issue?',
     description:
-      'Vero eum voluptatem aliquid nostrum voluptatem. Vitae esse natus. Earum nihil deserunt eos quasi cupiditate. A inventore et molestiae natus.',
-    href: '#',
+      'Every server has access to support for discussing anything related to Faster to provide prompt assistance.',
     icon: UsersIcon,
   },
   {
-    name: 'Task scheduling',
+    name: 'User-Centric Features',
     description:
-      'Et quod quaerat dolorem quaerat architecto aliquam accusantium. Ex adipisci et doloremque autem quia quam. Quis eos molestiae at iure impedit.',
-    href: '#',
-    icon: CalendarDaysIcon,
+      'We prioritize user-friendliness, offering advanced tools and settings through a sleek dashboard interface.',
+    icon: AdjustmentsHorizontalIcon,
   },
 ]
 const secondaryFeatures = [
   {
-    name: 'Push to deploy.',
-    description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit aute id magna.',
-    icon: CloudArrowUpIcon,
-  },
-  {
-    name: 'SSL certificates.',
-    description: 'Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.',
-    icon: LockClosedIcon,
-  },
-  {
-    name: 'Simple queues.',
-    description: 'Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus.',
-    icon: ArrowPathIcon,
-  },
-  {
     name: 'Advanced security.',
-    description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit aute id magna.',
+    description: 'Protect your server with our vigilant bot, equipped with state-of-the-art security features to detect and neutralize threats, ensuring a safe and secure environment for your community.',
     icon: FingerPrintIcon,
   },
   {
     name: 'Powerful API.',
-    description: 'Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.',
+    description: 'Unleash the full potential of your platform with our robust API, providing seamless integration and extensive functionality.',
     icon: Cog6ToothIcon,
   },
   {
-    name: 'Database backups.',
-    description: 'Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. ',
-    icon: ServerIcon,
+    name: 'Minimal ping.',
+    description: 'Experience lightning-fast response times with our optimized infrastructure, ensuring minimal latency for uninterrupted performance.',
+    icon: CloudArrowUpIcon,
+  },
+  {
+    name: 'Bug bounty program.',
+    description: 'Join our Bug Bounty Program and contribute to the enhancement of our platform reliability and security while earning rewards for identifying vulnerabilities.',
+    icon: LockClosedIcon,
   },
 ]
 const stats = [
-  { id: 1, name: 'Developers on the platform', value: '8,000+' },
-  { id: 2, name: 'Daily requests', value: '900m+' },
-  { id: 3, name: 'Uptime guarantee', value: '99.9%' },
-  { id: 4, name: 'Projects deployed', value: '12m' },
+  { id: 1, name: 'Server using Faster', value: '76+' },
+  { id: 2, name: 'Uptime guarantee', value: '99.9%' },
+  { id: 3, name: 'Members using Faster', value: '15k+' },
 ]
 const footerNavigation = {
   solutions: [
@@ -280,36 +267,8 @@ const footerNavigation = {
   ],
   social: [
     {
-      name: 'Facebook',
-      href: '#',
-      icon: defineComponent({
-        render: () =>
-          h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
-            h('path', {
-              'fill-rule': 'evenodd',
-              d: 'M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z',
-              'clip-rule': 'evenodd',
-            }),
-          ]),
-      }),
-    },
-    {
-      name: 'Instagram',
-      href: '#',
-      icon: defineComponent({
-        render: () =>
-          h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
-            h('path', {
-              'fill-rule': 'evenodd',
-              d: 'M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z',
-              'clip-rule': 'evenodd',
-            }),
-          ]),
-      }),
-    },
-    {
       name: 'X',
-      href: '#',
+      href: 'https://x.com/hello_faster',
       icon: defineComponent({
         render: () =>
           h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
@@ -321,27 +280,13 @@ const footerNavigation = {
     },
     {
       name: 'GitHub',
-      href: '#',
+      href: 'https://github.com/fasterproject',
       icon: defineComponent({
         render: () =>
           h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
             h('path', {
               'fill-rule': 'evenodd',
               d: 'M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z',
-              'clip-rule': 'evenodd',
-            }),
-          ]),
-      }),
-    },
-    {
-      name: 'YouTube',
-      href: '#',
-      icon: defineComponent({
-        render: () =>
-          h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
-            h('path', {
-              'fill-rule': 'evenodd',
-              d: 'M19.812 5.418c.861.23 1.538.907 1.768 1.768C21.998 8.746 22 12 22 12s0 3.255-.418 4.814a2.504 2.504 0 0 1-1.768 1.768c-1.56.419-7.814.419-7.814.419s-6.255 0-7.814-.419a2.505 2.505 0 0 1-1.768-1.768C2 15.255 2 12 2 12s0-3.255.417-4.814a2.507 2.507 0 0 1 1.768-1.768C5.744 5 11.998 5 11.998 5s6.255 0 7.814.418ZM15.194 12 10 15V9l5.194 3Z',
               'clip-rule': 'evenodd',
             }),
           ]),
