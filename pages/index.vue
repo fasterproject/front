@@ -44,7 +44,7 @@
           </div>
           <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
             <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
-              <img src="https://cdn.discordapp.com/attachments/1221218737106059326/1221218850104807555/Frame_1.png?ex=6611c7af&is=65ff52af&hm=ce3d3d7bc61ec8a4adf899530332177d58d0282ffef597af009f8f00a7ab4778&" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10" />
+              <img src="https://media.discordapp.net/attachments/1205543847573323787/1223626977710178374/mainimage.png" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10" />
             </div>
           </div>
         </div>
