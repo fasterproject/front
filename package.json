@@ -18,6 +18,8 @@
     "@vercel/analytics": "^1.2.2",
     "autoprefixer": "^10.4.19",
     "nuxt": "^3.11.1",
+    "nuxt-aos": "^1.2.4",
+    "nuxt-vercel-analytics": "^1.0.0",
     "postcss": "^8.4.38",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0",
