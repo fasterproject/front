@@ -25,25 +25,27 @@
         </div>
         <div class="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-40 lg:flex lg:px-8 lg:pt-40">
           <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
-            <img class="h-11" src="https://cdn.discordapp.com/attachments/1221218737106059326/1221219622271979581/Mark_1_1.png?ex=6611c867&is=65ff5367&hm=376d74424a66fd136bc3567237561e1d622e23c35ed1ae5a3f0fa187fad6d85f&" alt="Your Company" />
+            <img data-aos="fade-down" class="h-11" src="https://cdn.discordapp.com/attachments/1221218737106059326/1221219622271979581/Mark_1_1.png?ex=6611c867&is=65ff5367&hm=376d74424a66fd136bc3567237561e1d622e23c35ed1ae5a3f0fa187fad6d85f&" alt="Your Company" />
             <div class="mt-24 sm:mt-32 lg:mt-16">
               <a href="#" class="inline-flex space-x-6">
-                <span class="rounded-full bg-indigo-500/10 px-3 py-1 text-sm font-semibold leading-6 text-indigo-400 ring-1 ring-inset ring-indigo-500/20">Latest updates</span>
-                <span class="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-300">
+                <span data-aos="fade-right" class="rounded-full bg-indigo-500/10 px-3 py-1 text-sm font-semibold leading-6 text-indigo-400 ring-1 ring-inset ring-indigo-500/20">Latest updates</span>
+                <span data-aos="fade-right" class="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-300">
                   <span>Just shipped v1.0</span>
                   <ChevronRightIcon class="h-5 w-5 text-gray-500" aria-hidden="true" />
                 </span>
               </a>
             </div>
-            <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Discover a new way to moderate your discord server</h1>
-            <p class="mt-6 text-lg leading-8 text-gray-300">Step into a new era of moderation with Faster! Explore an innovative approach to moderating with our diverse range of tools tailored for large and medium-sized communities.</p>
-            <div class="mt-10 flex items-center gap-x-6">
+            <h1 data-aos="fade-right" class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Discover a new way to moderate your discord server</h1>
+            <p data-aos="fade-right" class="mt-6 text-lg leading-8 text-gray-300">Step into a new era of moderation with Faster! Explore an innovative approach to moderating with our diverse range of tools tailored for large and medium-sized communities.</p>
+            <div data-aos="fade-right" class="mt-10 flex items-center gap-x-6">
               <a href="https://discord.com/oauth2/authorize?client_id=1091418983003070474" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Get started</a>
               <a href="https://discord.gg/brut" class="text-sm font-semibold leading-6 text-white">Join our discord <span aria-hidden="true">→</span></a>
             </div>
           </div>
-          <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
+          
+          <div data-aos="fade-left" data-aos-anchor-placement="bottom-bottom" class="mx-auto mt-20 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-42 lg:max-w-none lg:flex-none xl:ml-32">
             <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
+              <img src="https://cdn.discordapp.com/attachments/1221218737106059326/1223630903130194001/mainimage.png?ex=661a8e15&is=66081915&hm=1233ca37d59f7f01ba2126fa7afb68229389b2dddda94e7974c4cac6028db4b5&" alt="App screenshot" width="2432" height="1442" class="w-[76rem]" />
             </div>
           </div>
         </div>
@@ -63,7 +65,7 @@
       -->
 
       <!-- Feature section -->
-      <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
+      <div data-aos="zoom-in" class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
         <div class="mx-auto max-w-2xl text-center">
           <h2 class="text-base font-semibold leading-7 text-indigo-400">Deploy faster</h2>
           <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Learn a different way to manage your server.</p>
@@ -90,7 +92,7 @@
       </div>
 
       <!-- Feature section -->
-      <div class="mt-32 sm:mt-56">
+      <div data-aos="zoom-in-down" class="mt-32 sm:mt-56">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
           <div class="mx-auto max-w-2xl sm:text-center">
             <h2 class="text-base font-semibold leading-7 text-indigo-400">Everything you need</h2>
@@ -123,11 +125,11 @@
       <!-- Stats -->
       <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
         <div class="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
-          <h2 class="text-base font-semibold leading-8 text-indigo-400">Our track record</h2>
-          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Trusted by thousands of communities&nbsp;worldwide</p>
-          <p class="mt-6 text-lg leading-8 text-gray-300">Join the ranks of satisfied server owners globally who rely on our trusted bot for unparalleled security and peace of mind, ensuring the safety and integrity of their communities.</p>
+          <h2 data-aos="fade-right" class="text-base font-semibold leading-8 text-indigo-400">Our track record</h2>
+          <p data-aos="fade-right" class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Trusted by thousands of communities&nbsp;worldwide</p>
+          <p  data-aos="fade-right" class="mt-6 text-lg leading-8 text-gray-300">Join the ranks of satisfied server owners globally who rely on our trusted bot for unparalleled security and peace of mind, ensuring the safety and integrity of their communities.</p>
         </div>
-        <dl class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-10 text-white sm:mt-20 sm:grid-cols-2 sm:gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-4">
+        <dl data-aos="fade-right" class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-10 text-white sm:mt-20 sm:grid-cols-2 sm:gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-4">
           <div v-for="stat in stats" :key="stat.id" class="flex flex-col gap-y-3 border-l border-white/10 pl-6">
             <dt class="text-sm leading-6">{{ stat.name }}</dt>
             <dd class="order-first text-3xl font-semibold tracking-tight">{{ stat.value }}</dd>
@@ -136,7 +138,7 @@
       </div>
 
       <!-- CTA section -->
-      <div class="relative isolate mt-32 px-6 py-32 sm:mt-56 sm:py-40 lg:px-8">
+      <div data-aos="fade-down" class="relative isolate mt-32 px-6 py-32 sm:mt-56 sm:py-40 lg:px-8">
         <svg class="absolute inset-0 -z-10 h-full w-full stroke-white/10 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]" aria-hidden="true">
           <defs>
             <pattern id="1d4240dd-898f-445f-932d-e2872fd12de3" width="200" height="200" x="50%" y="0" patternUnits="userSpaceOnUse">
