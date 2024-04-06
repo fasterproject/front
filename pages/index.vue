@@ -65,13 +65,13 @@
       -->
 
       <!-- Feature section -->
-      <div data-aos="zoom-in" class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
+      <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
         <div class="mx-auto max-w-2xl text-center">
-          <h2 class="text-base font-semibold leading-7 text-indigo-400">Deploy faster</h2>
-          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Learn a different way to manage your server.</p>
-          <p class="mt-6 text-lg leading-8 text-gray-300">With Faster, experience a unique approach to moderation by utilizing our array of tools to foster a healthy and efficient ecosystem within your server..</p>
+          <h2 data-aos="fade-down" class="text-base font-semibold leading-7 text-indigo-400">Deploy faster</h2>
+          <p data-aos="fade-down" class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Learn a different way to manage your server.</p>
+          <p data-aos="fade-down" class="mt-6 text-lg leading-8 text-gray-300">With Faster, experience a unique approach to moderation by utilizing our array of tools to foster a healthy and efficient ecosystem within your server..</p>
         </div>
-        <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
+        <div data-aos="fade-down" class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
           <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
             <div v-for="feature in primaryFeatures" :key="feature.name" class="flex flex-col">
               <dt class="text-base font-semibold leading-7 text-white">
@@ -92,23 +92,23 @@
       </div>
 
       <!-- Feature section -->
-      <div data-aos="zoom-in-down" class="mt-32 sm:mt-56">
+      <div class="mt-32 sm:mt-56">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
           <div class="mx-auto max-w-2xl sm:text-center">
-            <h2 class="text-base font-semibold leading-7 text-indigo-400">Everything you need</h2>
-            <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Multiple bots? Faster is here.</p>
-            <p class="mt-6 text-lg leading-8 text-gray-300">Consolidate your moderation efforts with Faster, the all-in-one solution. Say goodbye to juggling multiple bots and hello to streamlined efficiency and effectiveness in managing your community.</p>
+            <h2 data-aos="fade-up" class="text-base font-semibold leading-7 text-indigo-400">Everything you need</h2>
+            <p data-aos="fade-up" class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Multiple bots? Faster is here.</p>
+            <p data-aos="fade-up" class="mt-6 text-lg leading-8 text-gray-300">Consolidate your moderation efforts with Faster, the all-in-one solution. Say goodbye to juggling multiple bots and hello to streamlined efficiency and effectiveness in managing your community.</p>
           </div>
         </div>
         <div class="relative overflow-hidden pt-16">
-          <div class="mx-auto max-w-7xl px-6 lg:px-8">
+          <div data-aos="fade-up" class="mx-auto max-w-7xl px-6 lg:px-8">
             <img src="https://cdn.discordapp.com/attachments/1221218737106059326/1221218850104807555/Frame_1.png?ex=6611c7af&is=65ff52af&hm=ce3d3d7bc61ec8a4adf899530332177d58d0282ffef597af009f8f00a7ab4778&" alt="App screenshot" class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10" width="2432" height="1442" />
             <div class="relative" aria-hidden="true">
               <div class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-gray-900 pt-[7%]" />
             </div>
           </div>
         </div>
-        <div class="mx-auto mt-16 max-w-7xl px-6 sm:mt-20 md:mt-24 lg:px-8">
+        <div data-aos="fade-up" class="mx-auto mt-16 max-w-7xl px-6 sm:mt-20 md:mt-24 lg:px-8">
           <dl class="mx-auto grid max-w-2xl grid-cols-1 gap-x-6 gap-y-10 text-base leading-7 text-gray-300 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-x-8 lg:gap-y-16">
             <div v-for="feature in secondaryFeatures" :key="feature.name" class="relative pl-9">
               <dt class="inline font-semibold text-white">
