@@ -25,7 +25,7 @@
         </div>
         <div class="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-40 lg:flex lg:px-8 lg:pt-40">
           <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
-            <img data-aos="fade-down" class="h-11" src="https://cdn.discordapp.com/attachments/1221218737106059326/1221219622271979581/Mark_1_1.png?ex=6611c867&is=65ff5367&hm=376d74424a66fd136bc3567237561e1d622e23c35ed1ae5a3f0fa187fad6d85f&" alt="Your Company" />
+            <img data-aos="fade-down" class="h-11" src="https://cdn.discordapp.com/attachments/1221218737106059326/1221219622271979581/Mark_1_1.png?ex=662d77e7&is=661b02e7&hm=1988e26c49807efe0e32c197df245321e2424f737429dbda27639e0c585e61f5&" alt="Your Company" />
             <div class="mt-24 sm:mt-32 lg:mt-16">
               <a href="#" class="inline-flex space-x-6">
                 <span data-aos="fade-right" class="rounded-full bg-indigo-500/10 px-3 py-1 text-sm font-semibold leading-6 text-indigo-400 ring-1 ring-inset ring-indigo-500/20">Latest updates</span>
@@ -45,7 +45,7 @@
           
           <div data-aos="fade-left" data-aos-anchor-placement="bottom-bottom" class="mx-auto mt-20 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-42 lg:max-w-none lg:flex-none xl:ml-32">
             <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
-              <img src="https://cdn.discordapp.com/attachments/1221218737106059326/1223630903130194001/mainimage.png?ex=661a8e15&is=66081915&hm=1233ca37d59f7f01ba2126fa7afb68229389b2dddda94e7974c4cac6028db4b5&" alt="App screenshot" width="2432" height="1442" class="w-[76rem]" />
+              <img src="https://cdn.discordapp.com/attachments/1221218737106059326/1223630903130194001/mainimage.png?ex=662d0315&is=661a8e15&hm=bf709517856bb98915d1674899b91514ce9ac2e8ae2c19834bf01d5091c3ecdf&" alt="App screenshot" width="2432" height="1442" class="w-[76rem]" />
             </div>
           </div>
         </div>
@@ -102,7 +102,7 @@
         </div>
         <div class="relative overflow-hidden pt-16">
           <div data-aos="fade-up" class="mx-auto max-w-7xl px-6 lg:px-8">
-            <img src="https://cdn.discordapp.com/attachments/1221218737106059326/1221218850104807555/Frame_1.png?ex=6611c7af&is=65ff52af&hm=ce3d3d7bc61ec8a4adf899530332177d58d0282ffef597af009f8f00a7ab4778&" alt="App screenshot" class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10" width="2432" height="1442" />
+            <img src="https://cdn.discordapp.com/attachments/1221218737106059326/1221218850104807555/Frame_1.png?ex=662d772f&is=661b022f&hm=83b395baa463c83b2aad6b7f14aeb5f3c94b735971ac2d718b400f960267ded4&" alt="App screenshot" class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10" width="2432" height="1442" />
             <div class="relative" aria-hidden="true">
               <div class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-gray-900 pt-[7%]" />
             </div>
