@@ -10,7 +10,11 @@ useSeoMeta({
 </script>
 
 <template>
-  <div>
-  </div>
+    <!--
+    Author: Kenzo (8ruki)
+    Version: v0.1.0
+    Url: https://github.com/fasterproject/front
+    License(s): MIT
+    -->
   <NuxtPage />
 </template>
